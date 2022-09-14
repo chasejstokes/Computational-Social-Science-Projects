@@ -1,0 +1,9 @@
+git init
+git clone [https://github.com/chasejstokes/Computational-Social-Science-Projects.git](https://github.com/chasejstokes/Computational-Social-Science-Projects.git)
+cd Computational-Social-Science-Projects
+mkdir Project-1
+touch project-1.txt
+nano project-1.txq
+git add*
+git commit -m "adding folder and text file for Project 1"
+git push -u origin main
